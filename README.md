@@ -119,7 +119,7 @@ macOS versions **older** than Monterey:
 
 Monterey and later:
 ```bash
-~/systemmount/Library/CoreServices/Dock.app/Contents/Resources/DockMenus.plist
+~/systemmount/System/Library/CoreServices/Dock.app/Contents/Resources/DockMenus.plist
 ```
 <sub>Thank you [@journey-ad](https://github.com/journey-ad) for the feedback for Sequoia.</sub>
 
